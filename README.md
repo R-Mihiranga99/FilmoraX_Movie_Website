@@ -125,16 +125,9 @@ FilmoraX_Movie_Website/
 **Ravindu Mihiranga**
 
 * GitHub: [https://github.com/R-Mihiranga99](https://github.com/R-Mihiranga99)
-* LinkedIn: *(add your LinkedIn profile)*
+* LinkedIn: *https://www.linkedin.com/in/ravindu-mihiranga-845276247/*
 
 ---
 
 ⭐ If you find this project interesting, feel free to **⭐ star this repo**!
 
-```
-
-Just let me know! 🚀
-::contentReference[oaicite:1]{index=1}
-```
-
-[1]: https://github.com/R-Mihiranga99/FilmoraX_Movie_Website.git "GitHub - R-Mihiranga99/FilmoraX_Movie_Website: Movie website built with React, Node.js, Express & PostgreSQL (Neon) using TMDB API"
